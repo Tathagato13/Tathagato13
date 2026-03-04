@@ -1,118 +1,128 @@
 # Hi 👋 I'm Tathagato Das
 
 Electronics & Communication Engineering Student (2026)  
-Interested in **Robotics, Embedded Systems, Data Systems, and Software Development**
+Interested in **Data Systems, Embedded Engineering, Robotics, and Analytical Problem Solving**
 
-I enjoy building systems that combine **software logic with real-world hardware** — from embedded robotics projects to algorithmic programming and software tools.
+I enjoy building systems that combine **software logic, data analysis, and real-world hardware engineering**.
 
 ---
 
 # 🚀 About Me
 
 • Electronics & Communication Engineering student  
-• Interested in Robotics, Embedded Systems, and Data-driven systems  
-• Strong interest in system-level programming and Linux  
-• Currently building projects involving **robotics, algorithms, and software tools**
+• Interested in **Data Analytics, Embedded Systems, Robotics, and Engineering Software**  
+• Experience working with **Arduino systems, Linux programming, and data analysis tools**  
+• Passionate about building **real-world engineering projects**
 
-My goal is to develop **practical engineering systems that connect hardware, software, and intelligent decision making.**
+My goal is to work on **data-driven systems and intelligent engineering platforms.**
 
 ---
 
 # 🛠️ Technical Skills
 
-### Programming Languages
+### Programming
 - Python
-- C
-- C++
-- My SQL
-- Pandas
-- streamlit
-- scikit learn
+- C/C++
+- MySQL
 
 ### Engineering & Robotics
 - Arduino
 - Embedded Systems
 - Sensor Integration
-- Motor Drivers (L298N)
-- Robotics Control Systems
+- Motor Control (L298N)
+- Robotics Systems
 
-### Software & Tools
+### Data & Tools
+- Pandas
+- NumPy
+- Data Analysis
 - Linux
 - Git & GitHub
-- VS Code
-- Data Analysis (Python)
 
 ### Core Computer Science
-- Data Structures & Algorithms
 - Problem Solving
+- Algorithms
 - System Programming
 
 ---
 
 # 📌 Featured Projects
 
-## 🤖 Line Follower Robot
-Arduino-based autonomous robot that follows a line using **8 IR sensor array and L298N motor driver**.
+## 📊 MOSDAC-Chatbot
 
-Key Features:
-- Real-time line detection
-- Sensor calibration
-- Motor speed control
-- Embedded robotics system design
+Analysis of satellite and climate datasets from **MOSDAC (Meteorological and Oceanographic Satellite Data Archival Centre)**.
+
+This project focuses on exploring large meteorological datasets and extracting insights through data analysis and visualization.
+
+Key Work:
+- Satellite data scraping 
+- a chatbot for exactly for ISRO's MOSDAC website
 
 Tech Stack:
-Arduino • Embedded C • Sensors • Motor Control
+Python • Sematatic search 
+
+Repository:
+https://github.com/Tathagato13/MOSDAC-Chatbot
+
+---
+
+## 📈 Retail-Credit-Risk
+
+Collection of projects focusing on **data cleaning, exploratory data analysis and insight generation**.
+
+Includes:
+- Data preprocessing pipelines
+- Exploratory Data Analysis (EDA)
+- Visualization of datasets
+- Statistical insights about the loan takers and predicts about the defaulters
+
+Tech Stack:
+Python • Pandas • NumPy • Matplotlib
+
+Repository:
+https://github.com/Tathagato13/Retail-Credit-Risk
+
+---
+
+## 🎓 AI-Smart-Education
+
+Collection of projects developed during **for analysis the student data and predict the risk**
+
+Focus Areas:
+- Student data analysis
+- Student data storage 
+- Risk prediction analysis
+
+Repository:
+https://github.com/Tathagato13/NeuroNetics-AI-Smart-Education
+
+---
+
+## 🤖 Line Follower Robot
+
+Arduino-based autonomous robot that follows a line using **8 IR sensors and an L298N motor driver**.
+
+Features:
+- Sensor-based path detection
+- Motor speed control
+- Autonomous navigation
+
+Tech Stack:
+Arduino • Embedded C • Robotics
 
 Repository:
 https://github.com/Tathagato13/Line-Follower-Robot
 
 ---
 
-## 🎮 Tic Tac Toe Game
-
-Interactive **JavaScript-based browser game** implementing classic tic-tac-toe logic.
-
-Features:
-- Dynamic UI
-- Game state tracking
-- Win detection logic
-- Interactive gameplay
-
-Tech Stack:
-HTML • CSS • JavaScript
-
-Repository:
-https://github.com/Tathagato13/tic-tac-toe
-
----
-
-## 📚 Data Structures & Algorithms
-
-A collection of **DSA implementations and practice problems** for improving problem-solving skills.
-
-Includes:
-- Sorting Algorithms
-- Searching Algorithms
-- Basic Data Structures
-- Competitive programming practice
-
-Tech Stack:
-C / Python
-
-Repository:
-https://github.com/Tathagato13/Dsa
-
----
-
 ## 🐧 Linux Programming Experiments
 
-Collection of **Linux-based C programs** exploring system-level programming.
+Collection of **C programs exploring Linux system programming concepts**.
 
 Topics include:
-- File handling
-- Process basics
-- System commands
-- Linux programming exercises
+- File operations
+- Basic system calls
+- Command-line programming
 
 Tech Stack:
 C • Linux
@@ -122,21 +132,22 @@ https://github.com/Tathagato13/Linux
 
 ---
 
-## 💻 Initial Coding Projects
+## 💻 Initial Coding Experiments
 
-Early-stage coding experiments and practice projects used to explore programming concepts and development workflows.
+Early programming experiments and small projects used to explore software development concepts.
 
 Repository:
 https://github.com/Tathagato13/Initial-days
 
+
 # 🎯 Current Focus
 
-Currently learning and building projects related to:
+Currently working on projects related to:
 
-• Robotics and autonomous systems  
-• Embedded electronics  
-• Data analysis and predictive systems  
-• System-level programming on Linux
+• Data analysis and analytical systems  
+• Embedded electronics and robotics  
+• Linux system programming  
+• Engineering-focused software tools
 
 ---
 
@@ -153,4 +164,4 @@ tathagatodas16@gmail.com
 
 ---
 
-⭐ Always curious to learn new technologies and build meaningful engineering systems.
+⭐ Always learning, building, and improving engineering systems.
