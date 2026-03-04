@@ -18,31 +18,33 @@ My goal is to work on **data-driven systems and intelligent engineering platform
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,linux,git,arduino,mysql)](https://skillicons.dev)
 
 ### Programming
-- Python
-- C/C++
-- MySQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Engineering & Robotics
-- Arduino
-- Embedded Systems
-- Sensor Integration
-- Motor Control (L298N)
-- Robotics Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-4CAF50?style=for-the-badge)
+![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-6A1B9A?style=for-the-badge)
+![Motor Control](https://img.shields.io/badge/Motor%20Control%20L298N-FF6F00?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-0A66C2?style=for-the-badge)
 
 ### Data & Tools
-- Pandas
-- NumPy
-- Data Analysis
-- Linux
-- Git & GitHub
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-FF9800?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ### Core Computer Science
-- Problem Solving
-- Algorithms
-- System Programming
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2196F3?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-8E24AA?style=for-the-badge)
+![System Programming](https://img.shields.io/badge/System%20Programming-607D8B?style=for-the-badge)
 
 ---
 
