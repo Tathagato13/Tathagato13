@@ -1,61 +1,163 @@
-<h1 align="center">Hi there, I'm Tathagato Das 👋</h1>
-<h3 align="center">AI Engineering Student | Computer Vision & Data Analytics</h3>
+# Hi 👋 I'm Tathagato Das
 
-<p align="center">
-  Currently studying at Techno Main Salt Lake, building end-to-end machine learning pipelines, and pushing AI models to edge devices. Focused on solving real-world challenges through data.
-</p>
+Electronics & Communication Engineering Student (2026)  
+Interested in **Robotics, Embedded Systems, Data Systems, and Software Development**
 
----
-
-### 🚀 What I'm Building
-
-- 🔭 I’m currently working on deploying **YOLOv8 Nano** models for real-time mobile environments.
-- 📊 I’m analyzing complex datasets to build robust predictive models for financial risk assessment.
-- 🌱 I’m currently refining my skills in full-stack AI development, connecting database architectures with interactive frontends.
-- 🎯 Future Goal: Contributing to high-stakes, large-scale aerospace and national technology initiatives.
+I enjoy building systems that combine **software logic with real-world hardware** — from embedded robotics projects to algorithmic programming and software tools.
 
 ---
 
-### 🏆 Featured Projects
+# 🚀 About Me
 
-| 🐟 **Computer Vision for Fisheries Management** | 💳 **Retail Credit Risk Pipeline** |
-| :--- | :--- |
-| An end-to-end object detection and classification system designed for edge deployment (Android). | A full-stack data analysis and predictive modeling project assessing loan default probabilities. |
-| **Tech:** Python, PyTorch, YOLOv8 Nano, Computer Vision | **Tech:** Python, MySQL, Pandas, Scikit-learn, Streamlit |
-| - Detects and counts fish in real-time.<br>- Classifies specific species.<br>- Evaluates fish health metrics. | - Complex SQL queries for data extraction.<br>- Machine learning for risk prediction.<br>- Interactive dashboard for stakeholders. |
-| [View Repository](#) *(Link your repo here)* | [View Repository](#) *(Link your repo here)* |
+• Electronics & Communication Engineering student  
+• Interested in Robotics, Embedded Systems, and Data-driven systems  
+• Strong interest in system-level programming and Linux  
+• Currently building projects involving **robotics, algorithms, and software tools**
 
-*(Note: Add 1-2 more of your best repositories here following the same table format. Do not list everything—keep the focus strictly on quality and complex problem-solving.)*
+My goal is to develop **practical engineering systems that connect hardware, software, and intelligent decision making.**
 
 ---
 
-### 💻 Tech Stack & Tools
+# 🛠️ Technical Skills
 
-**Languages & Databases:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+### Programming Languages
+- Python
+- C
+- JavaScript
+- SQL (basic)
 
-**AI, Machine Learning & Data Science:** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### Engineering & Robotics
+- Arduino
+- Embedded Systems
+- Sensor Integration
+- Motor Drivers (L298N)
+- Robotics Control Systems
 
-**Frameworks & Deployment:** ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Software & Tools
+- Linux
+- Git & GitHub
+- VS Code
+- Data Analysis (Python)
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Problem Solving
+- System Programming
 
 ---
 
-### 📈 GitHub Analytics
+# 📌 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tathagato13&show_icons=true&theme=radical" alt="Tathagato's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tathagato13&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+## 🤖 Line Follower Robot
+Arduino-based autonomous robot that follows a line using **8 IR sensor array and L298N motor driver**.
+
+Key Features:
+- Real-time line detection
+- Sensor calibration
+- Motor speed control
+- Embedded robotics system design
+
+Tech Stack:
+Arduino • Embedded C • Sensors • Motor Control
+
+Repository:
+https://github.com/Tathagato13/Line-Follower-Robot
 
 ---
 
-### 📫 Let's Connect
+## 🎮 Tic Tac Toe Game
 
-- **LinkedIn:** [Your LinkedIn URL Here](#)
-- **Email:** [Your Email Address Here]
+Interactive **JavaScript-based browser game** implementing classic tic-tac-toe logic.
+
+Features:
+- Dynamic UI
+- Game state tracking
+- Win detection logic
+- Interactive gameplay
+
+Tech Stack:
+HTML • CSS • JavaScript
+
+Repository:
+https://github.com/Tathagato13/tic-tac-toe
+
+---
+
+## 📚 Data Structures & Algorithms
+
+A collection of **DSA implementations and practice problems** for improving problem-solving skills.
+
+Includes:
+- Sorting Algorithms
+- Searching Algorithms
+- Basic Data Structures
+- Competitive programming practice
+
+Tech Stack:
+C / Python
+
+Repository:
+https://github.com/Tathagato13/Dsa
+
+---
+
+## 🐧 Linux Programming Experiments
+
+Collection of **Linux-based C programs** exploring system-level programming.
+
+Topics include:
+- File handling
+- Process basics
+- System commands
+- Linux programming exercises
+
+Tech Stack:
+C • Linux
+
+Repository:
+https://github.com/Tathagato13/Linux
+
+---
+
+## 💻 Initial Coding Projects
+
+Early-stage coding experiments and practice projects used to explore programming concepts and development workflows.
+
+Repository:
+https://github.com/Tathagato13/Initial-days
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tathagato13&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathagato13&layout=compact)
+
+---
+
+# 🎯 Current Focus
+
+Currently learning and building projects related to:
+
+• Robotics and autonomous systems  
+• Embedded electronics  
+• Data analysis and predictive systems  
+• System-level programming on Linux
+
+---
+
+# 📫 Connect With Me
+
+GitHub  
+https://github.com/Tathagato13
+
+LinkedIn  
+(Add your LinkedIn here)
+
+Email  
+(Add email if you want)
+
+---
+
+⭐ Always curious to learn new technologies and build meaningful engineering systems.
