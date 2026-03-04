@@ -23,8 +23,11 @@ My goal is to develop **practical engineering systems that connect hardware, sof
 ### Programming Languages
 - Python
 - C
-- JavaScript
-- SQL (basic)
+- C++
+- My SQL
+- Pandas
+- streamlit
+- scikit learn
 
 ### Engineering & Robotics
 - Arduino
@@ -126,16 +129,6 @@ Early-stage coding experiments and practice projects used to explore programming
 Repository:
 https://github.com/Tathagato13/Initial-days
 
----
-
-# 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tathagato13&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tathagato13&layout=compact)
-
----
-
 # 🎯 Current Focus
 
 Currently learning and building projects related to:
@@ -153,10 +146,10 @@ GitHub
 https://github.com/Tathagato13
 
 LinkedIn  
-(Add your LinkedIn here)
+https://www.linkedin.com/in/tathagatodas/
 
 Email  
-(Add email if you want)
+tathagatodas16@gmail.com
 
 ---
 
